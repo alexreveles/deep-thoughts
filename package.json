@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/alexreveles/deep-thoughts#readme",
   "dependencies": {
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "s": "^1.0.0",
+    "serve": "^11.3.2"
   },
   "devDependencies": {
     "concurrently": "^6.0.2"
